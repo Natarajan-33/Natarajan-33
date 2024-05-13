@@ -11,7 +11,7 @@
 
 🌐 **About Me:**
 
-I'm a passionate Machine Learning Engineer and Blockchain Developer. I focus on developing robust and scalable applications using cutting-edge technologies in AI and Blockchain.
+I'm a Machine Learning Engineer and Blockchain Developer. I focus on developing robust and scalable applications using cutting-edge technologies in AI and Blockchain.
 
 - 🌱 Currently learning: **Blockchain/Web 3.0 technologies including the Internet Computer protocol and the Motoko programming language, alongside enhancing my skills in advanced Generative AI techniques**
 - 👯 Looking to collaborate on: **AI/ML and Web 3.0 projects.**
