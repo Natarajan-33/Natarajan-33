@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Natarajan</h1>
 <h3 align="center">🤖 Machine Learning Engineer | ⛓️ Blockchain Developer</h3>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=15LtlM2M83QaWlYvXxH9Oy72phbMEBbPq" alt="AI and Blockchain" width="500"/>
+  <img src="https://drive.google.com/uc?export=view&id=15LtlM2M83QaWlYvXxH9Oy72phbMEBbPq" alt="AI and Blockchain" width="300"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/natarajan-mohankumar/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
