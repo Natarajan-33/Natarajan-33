@@ -11,7 +11,7 @@
 
 🌐 **About Me:**
 
-I'm a passionate Machine Learning Engineer and Blockchain Developer specializing in Web 3.0 technologies. I focus on developing robust and scalable applications using cutting-edge technologies in AI and blockchain.
+I'm a passionate Machine Learning Engineer and Blockchain Developer. I focus on developing robust and scalable applications using cutting-edge technologies in AI and blockchain.
 
 - 🌱 Currently learning: **Blockchain/Web 3.0 technologies including the Internet Computer protocol and the Motoko programming language, alongside enhancing my skills in advanced Generative AI techniques**
 - 👯 Looking to collaborate on: **AI/ML and Web 3.0 projects.**
@@ -43,8 +43,11 @@ I'm a passionate Machine Learning Engineer and Blockchain Developer specializing
 
 📈 **My GitHub Stats:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natarajan-33&show_icons=true&locale=en&layout=compact" alt="natarajan-33" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api?username=natarajan-33&show_icons=true&locale=en" alt="natarajan-33" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natarajan-33&" alt="natarajan-33" height="195" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natarajan-33&show_icons=true&locale=en&layout=compact" alt="natarajan-33" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api?username=natarajan-33&show_icons=true&locale=en" alt="natarajan-33" align="center" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natarajan-33&" alt="natarajan-33" align="center" />
 </p>
