@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Natarajan</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer | Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=15LtlM2M83QaWlYvXxH9Oy72phbMEBbPq" alt="AI and Blockchain" width="100"/>
