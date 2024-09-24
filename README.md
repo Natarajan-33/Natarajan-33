@@ -55,6 +55,14 @@ I'm a Machine Learning Engineer focusing on developing robust and scalable appli
 </p>
 <br/>
 
+**Front End Technologies:**
+
+<p align="left">
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/streamlit/streamlit-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="8%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+</p>
+
 **Web 3.0 and Blockchain Technologies:**
 
 <p align="left">
