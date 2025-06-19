@@ -17,7 +17,7 @@ I'm a Machine Learning Engineer focusing on developing robust and scalable appli
 - 🌱 Currently learning: **Building advanced AI models and exploring Blockchain/Web 3.0 technologies including the Internet Computer protocol and the Motoko programming language**
 - 👯 Looking to collaborate on: **AI/ML projects**
 - 💬 Ask me about: **End-to-end ML pipelines using PyTorch, TensorFlow, Scikit-learn, Hugging Face, Streamlit, AWS**
-- 📫 How to reach me: **natarajan.mohan33@gmail.com**
+- 📫 How to reach me: **natarajan.aitech@gmail.com**
 
 ---
 
